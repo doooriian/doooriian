@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead">
+  <img src="https://c4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-preview.jpg" alt="MasterHead">
 </div>
 
 
