@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead">
+  <img src="https://wallpaperaccess.com/full/2493466.jpg" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Dorian</h1>
