@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead" style="width: 100%;">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+
 
 <h1 align="center">Hi 👋, I'm Dorian</h1>
 <h3 align="center">A student at 42 school in Paris</h3>
