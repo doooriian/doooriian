@@ -1,10 +1,6 @@
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead" style="width: 100%;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead" style="width: 100%;">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Dorian</h1>
