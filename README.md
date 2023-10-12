@@ -1,8 +1,6 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt=”my banner”>
-
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead">
+</div>
 
 <h1 align="center">Hi 👋, I'm Dorian</h1>
 <h3 align="center">A student at 42 school in Paris</h3>
