@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://67.media.tumblr.com/0565c888fa6f251158126adfa0f98314/tumblr_ob0ipnREFT1vt7aw9o1_500.gif" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/93/df/91/93df91b6ec01724af57a8aa3a7b07844.gif" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Dorian</h1>
