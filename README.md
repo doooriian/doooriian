@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Dorian</h1>
 <h3 align="center">A student at 42 school in Paris</h3>
+<img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/55edbe3105d51b0eaae7ecb04bd60dd9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doooriian&label=Profile%20views&color=0e75b6&style=flat" alt="doooriian" /> </p>
 
