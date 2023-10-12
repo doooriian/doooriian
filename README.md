@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead" style="width: 100%;">
+  <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" alt="MasterHead">
 </div>
 
 
