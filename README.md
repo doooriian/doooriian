@@ -37,5 +37,7 @@
 ### Now playing 🎧
 
 <p align="center">
- <img src="https://spotify-now-playing-beta-six.vercel.app/now-playing.vercel.app.vercel.app.vercel.app.vercel.app/api/view?uid=eerreci0dnge2lqlbia1g8al3&cover_image=true&theme=novatorem&show_offline=false&background_color=383333&bar_color=a061d1&bar_color_cover=false">
+ <a href="https://spotify-now-playing-beta-six.vercel.app/now-playing?open">
+    <img src="https://spotify-now-playing-beta-six.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 </p>
