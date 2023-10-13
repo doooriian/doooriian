@@ -31,14 +31,14 @@
 ## 42 School Projects
 
 <p align="center">
-  <a href="https://profile.intra.42.fr/users/doooriian" target="_blank">
+  <a href="https://profile.intra.42.fr/users/dley" target="_blank">
     <img src="https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white" alt="42SP">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mendes-jv/libft" target="_blank">
-    <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Libft" width="150">
+  <a href="https://github.com/doooriian/Libft" target="_blank">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" width="150">
   </a>
   <a href="https://github.com/mendes-jv/get-next-line" target="_blank">
     <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get Next Line" width="150">
