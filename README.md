@@ -30,30 +30,23 @@
 
 ## 42 School Projects
 
-<p align="center">
+<div align="center">
   <a href="https://profile.intra.42.fr/users/dley" target="_blank">
-    <img src="https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white" alt="42SP">
+    <img src="https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white" alt="42SP" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/doooriian/Libft" target="_blank">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" width="150">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" title="125/100" />
   </a>
-  <a href="https://github.com/mendes-jv/get-next-line" target="_blank">
-    <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get Next Line" width="150">
+  <a href="https://github.com/doooriian/Printf" target="_blank">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linen.png" alt="Ft Printf" title="Current Project" />
   </a>
-  <a href="https://github.com/mendes-jv/ft-printf" target="_blank">
-    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Ft Printf" width="150">
+  <a href="https://github.com/doooriian/Get_next_line" target="_blank">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfn.png" alt="Get Next Line" title="Current Project" />
   </a>
-  <a href="https://github.com/mendes-jv/born-to-be-root" target="_blank">
-    <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="Born2BeRoot" width="150">
-  </a>
-  <a href="https://github.com/mendes-jv/fdf" target="_blank">
-    <img src="https://game.42sp.org.br/static/assets/achievements/fdfn.png" alt="Fdf" width="150">
-  </a>
-</p>
-
+</div>
 
 ### 🎧 Now playing on Spotify
 <br>
@@ -67,16 +60,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/doooriian/doooriian/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
-
-## Test
-
-[![42SP](https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/dley)
-
-[![Libft](https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png)](https://github.com/doooriian/Libft "125/100")
-[![Get Next Line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/mendes-jv/get-next-line "125/100")
-[![Ft Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/mendes-jv/ft-printf "125/100")
-[![Born2BeRoot](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)](https://github.com/mendes-jv/born-to-be-root "125/100")
-[![Fdf](https://game.42sp.org.br/static/assets/achievements/fdfn.png)](https://github.com/mendes-jv/fdf "Current Project")
-
 </div>
