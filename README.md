@@ -28,6 +28,33 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doooriian&" alt="doooriian" /></p>
 <br>
 
+## 42 School Projects
+
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/doooriian" target="_blank">
+    <img src="https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white" alt="42SP">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mendes-jv/libft" target="_blank">
+    <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Libft" width="150">
+  </a>
+  <a href="https://github.com/mendes-jv/get-next-line" target="_blank">
+    <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get Next Line" width="150">
+  </a>
+  <a href="https://github.com/mendes-jv/ft-printf" target="_blank">
+    <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Ft Printf" width="150">
+  </a>
+  <a href="https://github.com/mendes-jv/born-to-be-root" target="_blank">
+    <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="Born2BeRoot" width="150">
+  </a>
+  <a href="https://github.com/mendes-jv/fdf" target="_blank">
+    <img src="https://game.42sp.org.br/static/assets/achievements/fdfn.png" alt="Fdf" width="150">
+  </a>
+</p>
+
+
 ### 🎧 Now playing on Spotify
 <br>
 <p align="center">
