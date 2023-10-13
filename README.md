@@ -68,3 +68,15 @@
   
   <br/><br/><br/>
 </div>
+
+## Test
+
+[![42SP](https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/dley)
+
+[![Libft](https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png)](https://github.com/doooriian/Libft "125/100")
+[![Get Next Line](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)](https://github.com/mendes-jv/get-next-line "125/100")
+[![Ft Printf](https://game.42sp.org.br/static/assets/achievements/ft_printfm.png)](https://github.com/mendes-jv/ft-printf "125/100")
+[![Born2BeRoot](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)](https://github.com/mendes-jv/born-to-be-root "125/100")
+[![Fdf](https://game.42sp.org.br/static/assets/achievements/fdfn.png)](https://github.com/mendes-jv/fdf "Current Project")
+
+</div>
