@@ -34,4 +34,4 @@
   <br/><br/><br/>
 </div>
 
-[<img src="https://spotify-now-playing-git-main-doooriians-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/eerreci0dnge2lqlbia1g8al3)
+[![Spotify](https://doooriian.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
