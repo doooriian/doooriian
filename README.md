@@ -41,10 +41,10 @@
     <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" title="125/100" />
   </a>
   <a href="https://github.com/doooriian/Printf" target="_blank">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linen.png" alt="Ft Printf" title="Current Project" />
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfn.png" alt="Ft Printf" title="Current Project" />
   </a>
   <a href="https://github.com/doooriian/Get_next_line" target="_blank">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfn.png" alt="Get Next Line" title="Current Project" />
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linen.png" alt="Get Next Line" title="Current Project" />
   </a>
 </div>
 
