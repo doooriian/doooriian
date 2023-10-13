@@ -34,4 +34,4 @@
   <br/><br/><br/>
 </div>
 
-[![Spotify](https://doooriian.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://doooriian.vercel.app/api/spotify)](https://open.spotify.com/user/eerreci0dnge2lqlbia1g8al3)
