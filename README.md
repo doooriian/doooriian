@@ -37,7 +37,5 @@
 ### Now playing on Spotify
 
 <p align="center">
-<a href="https://spotify-now-playing-kappa-six.vercel.app.vercel.app/now-playing?open">
-<img src="https://spotify-now-playing-kappa-six.vercel.app.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+[![Spotify](https://doooriian.vercel.app/api/spotify)](https://open.spotify.com/user/eerreci0dnge2lqlbia1g8al3)
 </p>
