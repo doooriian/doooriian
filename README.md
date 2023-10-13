@@ -34,4 +34,4 @@
   <br/><br/><br/>
 </div>
 
-[<img src="https://spotify-now-playing-beta-six.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/eerreci0dnge2lqlbia1g8al3)
+[<img src="https://spotify-now-playing-beta-six.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/eerreci0dnge2lqlbia1g8al3)
