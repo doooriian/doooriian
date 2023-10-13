@@ -37,5 +37,5 @@
 ### Now playing on Spotify
 
 <p align="center">
-(https://spotify-now-playing-kappa-six.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/eerreci0dnge2lqlbia1g8al3)
+<img src="https://spotify-now-playing-kappa-six.vercel.app/api/view?uid=eerreci0dnge2lqlbia1g8al3&cover_image=true&theme=novatorem&show_offline=false&background_color=383333&bar_color=a061d1&bar_color_cover=false">
 </p>
