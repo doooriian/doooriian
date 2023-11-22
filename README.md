@@ -44,7 +44,7 @@
     <img src="https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="100/100" />
   </a>
   <a href="https://github.com/doooriian/Get_next_line" target="_blank">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linen.png" alt="Get Next Line" title="Current Project" />
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linee.png" alt="Get Next Line" title="100/100" />
   </a>
 </div>
 
