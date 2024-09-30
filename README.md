@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C language**
 
-- 📫 How to reach me **dley@student.42.fr**
+- 📫 How to reach me **doley@student.42.fr**
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
 ## 42 School Projects
 
 <div align="center">
-  <a href="https://profile.intra.42.fr/users/dley" target="_blank">
+  <a href="https://profile.intra.42.fr/users/doley" target="_blank">
     <img src="https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white" alt="42SP" />
   </a>
 </div>
