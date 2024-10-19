@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://profile.intra.42.fr/users/doley" target="_blank">
-    <img src="https://img.shields.io/badge/Intra-dley-dark_green?&logo=42&logoColor=white" alt="42SP" />
+    <img src="https://img.shields.io/badge/Intra-doley-dark_green?&logo=42&logoColor=white" alt="42SP" />
   </a>
 </div>
 
