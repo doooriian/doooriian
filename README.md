@@ -1,9 +1,33 @@
-![](https://github-readme-stats.vercel.app/api?username=doooriian&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=doooriian&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doooriian&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
 
-[![doley's 42 stats](https://badge.mediaplus.ma/colorfulwaves/doley?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  <!-- Statistiques 42 -->
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/doley?1337Badge=off&UM6P=off" alt="42 Stats" />
+  </a>
 
-![](https://github-profile-trophy.vercel.app/?username=doooriian&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <!-- Profil Intra -->
+  <a href="https://profile.intra.42.fr/users/doley"><br/>
+    <img src="https://img.shields.io/badge/Intra-doley-dark_green?&logo=42&logoColor=white" alt="42 Intra Profile" />
+  </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <hr style="width:80%; margin: 20px 0;">
+
+  <!-- Badges des projets -->
+  <a href="https://github.com/doooriian/Libft">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" title="Libft" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/doooriian/Printf">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="Ft Printf" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/doooriian/Get_next_line">
+    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linee.png" alt="Get Next Line" title="Get Next Line" />
+  </a>
+
+  <hr style="width:80%; margin: 20px 0;">
+
+  <!-- Trophy GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=doooriian&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
+
+</div>
