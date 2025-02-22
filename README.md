@@ -25,7 +25,7 @@
 
 <p>
 
-<a href="https://github.com/lanceleau02/Philosophers">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/philosopherse.png)</a>
+<a href="https://github.com/doooriian/Philosophers">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/philosopherse.png)</a>
 
   <hr style="width:80%; margin: 20px 0;">
 
