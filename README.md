@@ -13,17 +13,19 @@
   <hr style="width:80%; margin: 20px 0;">
 
   <!-- Badges des projets -->
-  <a href="https://github.com/doooriian/Libft">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" title="Libft" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/doooriian/Printf">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="Ft Printf" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/doooriian/Get_next_line">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linee.png" alt="Get Next Line" title="Get Next Line" />
-  </a>
+<p>
+
+<a href="https://github.com/doooriian/Libft">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png)</a>
+<a href="https://github.com/doooriian/Ft_printf">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfe.png)</a>
+<a href="https://github.com/doooriian/Get_next_line">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linem.png)</a>
+<a href="https://github.com/doooriian/Push_swap">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/push_swapm.png)</a>
+<a href="https://github.com/doooriian/Minitalk">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/minitalkm.png)</a>
+
+</p>
+
+<p>
+
+<a href="https://github.com/lanceleau02/Philosophers">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/philosopherse.png)</a>
 
   <hr style="width:80%; margin: 20px 0;">
 
