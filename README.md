@@ -27,6 +27,7 @@
 
 <a href="https://github.com/doooriian/So_long">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/so_longm.png)</a>
 <a href="https://github.com/doooriian/Philosophers">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/philosopherse.png)</a>
+<a href="https://github.com/doooriian/Minishell">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/minishelle.png)</a>
 
   <hr style="width:80%; margin: 20px 0;">
 
