@@ -22,7 +22,7 @@ I value code that is understandable, maintainable, and easy for a team to work o
 
 ## Selected work
 
-### 01 / [ft_chess — Real-time multiplayer chess](https://github.com/doooriian/Transcendence)
+### 01 / [ft_transcendence — Real-time multiplayer chess](https://github.com/doooriian/Transcendence)
 
 A full-stack chess platform developed by a **team of four** for 42's ft_transcendence project. It includes accounts, friends, chat, online multiplayer, and a chess AI.
 
