@@ -37,7 +37,15 @@ A full-stack web application with user accounts, profiles, friends, chat, online
 
 `Node.js` · `Express` · `Socket.IO` · `PostgreSQL` · `Prisma` · `Docker`
 
-### 02 · [Cub3d](https://github.com/doooriian/Cub3d)
+### 02 · [minishell](https://github.com/doooriian/minishell)
+
+**Unix shell implementation · C / POSIX**
+
+A Bash-inspired command interpreter built in C, covering command parsing, process execution, pipelines, redirections, environment variable expansion, built-in commands and signal handling.
+
+`C` · `POSIX` · `GNU Readline` · `Processes` · `Pipes`
+
+### 03 · [Cub3d](https://github.com/doooriian/Cub3d)
 
 **3D raycasting engine · Two-person project**
 
@@ -45,7 +53,7 @@ A C graphics project covering map parsing, wall rendering, textures, player move
 
 `C` · `MiniLibX` · `Raycasting` · `Linux`
 
-### 03 · [Inception](https://github.com/doooriian/Inception)
+### 04 · [Inception](https://github.com/doooriian/Inception)
 
 **Containerized web infrastructure**
 
@@ -53,7 +61,7 @@ A Docker-based deployment with an NGINX HTTPS entry point, WordPress/PHP-FPM, Ma
 
 `Docker` · `Docker Compose` · `NGINX` · `MariaDB`
 
-### 04 · [ClassMaker](https://github.com/doooriian/classmaker)
+### 05 · [ClassMaker](https://github.com/doooriian/classmaker)
 
 **Personal developer tool · C++98**
 
@@ -75,7 +83,6 @@ A command-line utility that creates canonical C++ class headers and sources, han
 
 ## 🎓 More from the 42 curriculum
 
-[**minishell**](https://github.com/doooriian/minishell) · Unix shell & process management  
 [**Philosophers**](https://github.com/doooriian/Philosophers) · Threads & synchronization  
 [**Libft**](https://github.com/doooriian/Libft) · C library foundations  
 [**Push_swap**](https://github.com/doooriian/Push_swap) · Algorithms & stack operations
