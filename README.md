@@ -1,38 +1,102 @@
 <div align="center">
 
-  <!-- Statistiques 42 -->
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/doley?1337Badge=off&UM6P=off" alt="42 Stats" />
-  </a>
+# Hey, I'm Dorian 👋
 
-  <!-- Profil Intra -->
-  <a href="https://profile.intra.42.fr/users/doley"><br/>
-    <img src="https://img.shields.io/badge/Intra-doley-dark_green?&logo=42&logoColor=white" alt="42 Intra Profile" />
-  </a>
+### Software development · Systems · Web · Infrastructure
 
-  <hr style="width:80%; margin: 20px 0;">
+Software development student at **42 Angoulême**, France.  
+I enjoy exploring different areas of software engineering, from **C/C++ systems programming** to **web applications, real-time communication and infrastructure**.
 
-  <!-- Badges des projets -->
 <p>
-
-<a href="https://github.com/doooriian/Libft">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png)</a>
-<a href="https://github.com/doooriian/Ft_printf">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/ft_printfe.png)</a>
-<a href="https://github.com/doooriian/Get_next_line">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/get_next_linem.png)</a>
-<a href="https://github.com/doooriian/Push_swap">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/push_swapm.png)</a>
-<a href="https://github.com/doooriian/Minitalk">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/minitalkm.png)</a>
-
+  <img src="https://img.shields.io/badge/42-Angoul%C3%AAme-111827?style=flat-square&labelColor=111827&color=665EE8" alt="42 Angoulême" />
+  <img src="https://img.shields.io/badge/Interests-Software_Engineering-0F766E?style=flat-square" alt="Software engineering" />
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-2563EB?style=flat-square" alt="Open to opportunities" />
 </p>
 
-<p>
+[**Selected projects**](#-selected-projects) · [**Tech stack**](#-technical-toolkit) · [**All repositories**](https://github.com/doooriian?tab=repositories)
 
-<a href="https://github.com/doooriian/So_long">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/so_longm.png)</a>
-<a href="https://github.com/doooriian/Philosophers">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/philosopherse.png)</a>
-<a href="https://github.com/doooriian/Minishell">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/minishelle.png)</a>
-<a href="https://github.com/doooriian/Cub3d">![42 Badge](https://github.com/doooriian/42-Badges/blob/main/badges/cub3dm.png)</a>
+</div>
 
-  <hr style="width:80%; margin: 20px 0;">
+---
 
-  <!-- Trophy GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=doooriian&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
+## 👨‍💻 About me
 
+I'm studying software development at **42 Angoulême**, where I get to work on a wide variety of problems: algorithms, graphics, Unix systems, networking, web development and containerized environments.
+
+I enjoy **learning new technologies**, understanding how systems fit together and contributing to projects with a team. The repositories below show different sides of my work rather than one fixed specialization.
+
+## 🚀 Selected projects
+
+### 01 · [ft_transcendence](https://github.com/doooriian/Transcendence)
+
+**Real-time multiplayer chess platform · Team of four**
+
+A full-stack web application with user accounts, profiles, friends, chat, online multiplayer and a chess AI.
+
+**My contribution:** backend architecture and APIs, JWT/Argon2 authentication, PostgreSQL/Prisma models and migrations, Socket.IO integration for presence/chat/games, Docker Compose and Caddy.
+
+`Node.js` · `Express` · `Socket.IO` · `PostgreSQL` · `Prisma` · `Docker`
+
+### 02 · [minishell](https://github.com/doooriian/minishell)
+
+**Unix shell implementation · C / POSIX**
+
+A Bash-inspired command interpreter built in C, covering command parsing, process execution, pipelines, redirections, environment variable expansion, built-in commands and signal handling.
+
+`C` · `POSIX` · `GNU Readline` · `Processes` · `Pipes`
+
+### 03 · [Cub3d](https://github.com/doooriian/Cub3d)
+
+**3D raycasting engine · Two-person project**
+
+A C graphics project covering map parsing, wall rendering, textures, player movement and collision handling in a Linux/X11 environment.
+
+`C` · `MiniLibX` · `Raycasting` · `Linux`
+
+### 04 · [CPP-Modules](https://github.com/doooriian/CPP-Modules)
+
+**C++98 curriculum · Ten modules**
+
+A structured collection of the 42 C++ exercises: object-oriented programming, memory management, inheritance, polymorphism, exceptions, templates, STL containers and algorithms.
+
+`C++98` · `OOP` · `Templates` · `STL` · `Algorithms`
+
+### 05 · [Inception](https://github.com/doooriian/Inception)
+
+**Containerized web infrastructure**
+
+A Docker-based deployment with an NGINX HTTPS entry point, WordPress/PHP-FPM, MariaDB, private networking and persistent storage.
+
+`Docker` · `Docker Compose` · `NGINX` · `MariaDB`
+
+### 06 · [ClassMaker](https://github.com/doooriian/classmaker)
+
+**Personal developer tool · C++98**
+
+A command-line utility that creates canonical C++ class headers and sources, handles common folder layouts and avoids accidental overwrites.
+
+`C++98` · `CLI` · `Automation`
+
+---
+
+## 🧰 Technical toolkit
+
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **Languages** | C, C++, JavaScript; TypeScript for frontend integration |
+| **Systems & networking** | Processes, file descriptors, signals, sockets, threads, synchronization |
+| **Web** | React, TypeScript, Vite, Tailwind CSS; Node.js, Express, REST APIs, Socket.IO |
+| **Data & security** | PostgreSQL, Prisma, relational modeling, JWT, Argon2 |
+| **Tools & infrastructure** | Git, Docker, Docker Compose, Caddy, NGINX, Linux |
+
+## 🎓 More from the 42 curriculum
+
+[**Philosophers**](https://github.com/doooriian/Philosophers) · Threads & synchronization  
+[**Libft**](https://github.com/doooriian/Libft) · C library foundations  
+[**Push_swap**](https://github.com/doooriian/Push_swap) · Algorithms & stack operations
+
+---
+
+<div align="center">
+  <sub>Explore the repositories above for implementation details, build instructions and limitations.</sub>
 </div>
