@@ -1,82 +1,87 @@
 <div align="center">
 
-# Dorian Ley
+# Hey, I'm Dorian 👋
 
-**Backend & systems development**
+### Backend development · Systems programming
 
-42 Angoulême · France · Open to backend internship opportunities
+Software development student at **42 Angoulême**, France.  
+Interested in **backend engineering internships**, reliable APIs, real-time systems and the infrastructure behind them.
 
-I enjoy building the parts you don't always see: APIs, authentication, real-time communication, databases, and the infrastructure that keeps everything running.
+<p>
+  <img src="https://img.shields.io/badge/42-Angoul%C3%AAme-111827?style=flat-square&labelColor=111827&color=665EE8" alt="42 Angoulême" />
+  <img src="https://img.shields.io/badge/Focus-Backend-0F766E?style=flat-square" alt="Backend focus" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-2563EB?style=flat-square" alt="Open to internships" />
+</p>
 
-[Featured project](https://github.com/doooriian/Transcendence) · [Projects](#selected-work) · [GitHub](https://github.com/doooriian?tab=repositories)
+[**Selected projects**](#-selected-projects) · [**Tech stack**](#-technical-toolkit) · [**All repositories**](https://github.com/doooriian?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About me
 
-I'm a software development student at **42 Angoulême**, with a focus on backend engineering and systems programming. My work spans low-level programming in C/C++, collaborative web applications, and containerized infrastructure.
+I like working on the parts of software that users don't always see: **backend architecture, authentication, data, communication and deployment**.
 
-I value code that is understandable, maintainable, and easy for a team to work on.
+My background at 42 combines C/C++ systems programming with collaborative web development. I focus on understanding the systems I build, writing maintainable code and working effectively with other developers.
 
-## Selected work
+## 🚀 Selected projects
 
-### 01 / [ft_transcendence — Real-time multiplayer chess](https://github.com/doooriian/Transcendence)
+### 01 · [ft_transcendence](https://github.com/doooriian/Transcendence)
 
-A full-stack chess platform developed by a **team of four** for 42's ft_transcendence project. It includes accounts, friends, chat, online multiplayer, and a chess AI.
+**Real-time multiplayer chess platform · Team of four**
 
-**My contribution:** backend architecture and APIs; authentication with JWT and Argon2; PostgreSQL/Prisma data modeling; Socket.IO integration for chat, presence and multiplayer; Docker Compose, Caddy, and deployment integration.
+A full-stack web application with user accounts, profiles, friends, chat, online multiplayer and a chess AI.
 
-`Node.js` · `Express` · `Socket.IO` · `PostgreSQL` · `Prisma` · `Docker` · `Caddy`
+**My contribution:** backend architecture and APIs, JWT/Argon2 authentication, PostgreSQL/Prisma models and migrations, Socket.IO integration for presence/chat/games, Docker Compose and Caddy.
 
-### 02 / [Cub3D — 3D raycasting engine](https://github.com/doooriian/Cub3d)
+`Node.js` · `Express` · `Socket.IO` · `PostgreSQL` · `Prisma` · `Docker`
 
-A **two-person C project** exploring 3D rendering through raycasting: scene parsing, texturing, player movement, collision handling, and real-time rendering.
+### 02 · [Cub3d](https://github.com/doooriian/Cub3d)
+
+**3D raycasting engine · Two-person project**
+
+A C graphics project covering map parsing, wall rendering, textures, player movement and collision handling in a Linux/X11 environment.
 
 `C` · `MiniLibX` · `Raycasting` · `Linux`
 
-### 03 / [Inception — Containerized web infrastructure](https://github.com/doooriian/Inception)
+### 03 · [Inception](https://github.com/doooriian/Inception)
 
-A multi-container WordPress environment with a TLS-enabled NGINX entry point, PHP-FPM, MariaDB, isolated networking, and persistent storage.
+**Containerized web infrastructure**
 
-`Docker` · `Docker Compose` · `NGINX` · `MariaDB` · `Linux`
+A Docker-based deployment with an NGINX HTTPS entry point, WordPress/PHP-FPM, MariaDB, private networking and persistent storage.
 
-### 04 / [ClassMaker — A C++98 developer tool](https://github.com/doooriian/classmaker)
+`Docker` · `Docker Compose` · `NGINX` · `MariaDB`
 
-A small CLI I built to automate repetitive work at 42. It generates canonical C++ class headers and source files, handles common directory layouts, and avoids accidental overwrites.
+### 04 · [ClassMaker](https://github.com/doooriian/classmaker)
+
+**Personal developer tool · C++98**
+
+A command-line utility that creates canonical C++ class headers and sources, handles common folder layouts and avoids accidental overwrites.
 
 `C++98` · `CLI` · `Automation`
 
-## Technical toolkit
+---
 
-| Area | Technologies and concepts |
-| --- | --- |
+## 🧰 Technical toolkit
+
+| Area | Technologies & concepts |
+| :--- | :--- |
 | **Languages** | C, C++, JavaScript; TypeScript for frontend integration |
 | **Backend** | Node.js, Express, REST APIs, Socket.IO, JWT, Argon2 |
-| **Data** | PostgreSQL, Prisma ORM, relational modeling and migrations |
+| **Data** | PostgreSQL, Prisma, relational modeling and migrations |
 | **Infrastructure** | Docker, Docker Compose, Caddy, NGINX, Linux, Git |
 | **Systems** | Processes, file descriptors, signals, sockets, threads, synchronization |
 
-## More from the 42 curriculum
+## 🎓 More from the 42 curriculum
 
-- [Minishell](https://github.com/doooriian/minishell) — Unix shell, pipes, redirections and process management
-- [Philosophers](https://github.com/doooriian/Philosophers) — concurrency and synchronization in C
-- [Libft](https://github.com/doooriian/Libft) — core C utilities and memory management
-- [Push_swap](https://github.com/doooriian/Push_swap) — algorithms and constrained sorting
-
-<details>
-<summary>42 project badges</summary>
-
-<br />
-
-<a href="https://github.com/doooriian/Libft"><img src="https://raw.githubusercontent.com/doooriian/42-Badges/main/badges/libftm.png" width="86" alt="Libft badge" /></a>
-<a href="https://github.com/doooriian/Push_swap"><img src="https://raw.githubusercontent.com/doooriian/42-Badges/main/badges/push_swapm.png" width="86" alt="Push_swap badge" /></a>
-<a href="https://github.com/doooriian/Philosophers"><img src="https://raw.githubusercontent.com/doooriian/42-Badges/main/badges/philosopherse.png" width="86" alt="Philosophers badge" /></a>
-<a href="https://github.com/doooriian/Cub3d"><img src="https://raw.githubusercontent.com/doooriian/42-Badges/main/badges/cub3dm.png" width="86" alt="Cub3D badge" /></a>
-
-</details>
+[**minishell**](https://github.com/doooriian/minishell) · Unix shell & process management  
+[**Philosophers**](https://github.com/doooriian/Philosophers) · Threads & synchronization  
+[**Libft**](https://github.com/doooriian/Libft) · C library foundations  
+[**Push_swap**](https://github.com/doooriian/Push_swap) · Algorithms & stack operations
 
 ---
 
-<sub>Built with clarity in mind. Projects and contributions are documented in their respective repositories.</sub>
+<div align="center">
+  <sub>Explore the repositories above for implementation details, build instructions and limitations.</sub>
+</div>
