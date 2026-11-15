@@ -2,15 +2,15 @@
 
 # Hey, I'm Dorian 👋
 
-### Backend development · Systems programming
+### Software development · Systems · Web · Infrastructure
 
 Software development student at **42 Angoulême**, France.  
-Interested in **backend engineering internships**, reliable APIs, real-time systems and the infrastructure behind them.
+I enjoy exploring different areas of software engineering, from **C/C++ systems programming** to **web applications, real-time communication and infrastructure**.
 
 <p>
   <img src="https://img.shields.io/badge/42-Angoul%C3%AAme-111827?style=flat-square&labelColor=111827&color=665EE8" alt="42 Angoulême" />
-  <img src="https://img.shields.io/badge/Focus-Backend-0F766E?style=flat-square" alt="Backend focus" />
-  <img src="https://img.shields.io/badge/Open_to-Internships-2563EB?style=flat-square" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/Interests-Software_Engineering-0F766E?style=flat-square" alt="Software engineering" />
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-2563EB?style=flat-square" alt="Open to opportunities" />
 </p>
 
 [**Selected projects**](#-selected-projects) · [**Tech stack**](#-technical-toolkit) · [**All repositories**](https://github.com/doooriian?tab=repositories)
@@ -21,9 +21,9 @@ Interested in **backend engineering internships**, reliable APIs, real-time syst
 
 ## 👨‍💻 About me
 
-I like working on the parts of software that users don't always see: **backend architecture, authentication, data, communication and deployment**.
+I'm studying software development at **42 Angoulême**, where I get to work on a wide variety of problems: algorithms, graphics, Unix systems, networking, web development and containerized environments.
 
-My background at 42 combines C/C++ systems programming with collaborative web development. I focus on understanding the systems I build, writing maintainable code and working effectively with other developers.
+I enjoy **learning new technologies**, understanding how systems fit together and contributing to projects with a team. The repositories below show different sides of my work rather than one fixed specialization.
 
 ## 🚀 Selected projects
 
@@ -68,10 +68,10 @@ A command-line utility that creates canonical C++ class headers and sources, han
 | Area | Technologies & concepts |
 | :--- | :--- |
 | **Languages** | C, C++, JavaScript; TypeScript for frontend integration |
-| **Backend** | Node.js, Express, REST APIs, Socket.IO, JWT, Argon2 |
-| **Data** | PostgreSQL, Prisma, relational modeling and migrations |
-| **Infrastructure** | Docker, Docker Compose, Caddy, NGINX, Linux, Git |
-| **Systems** | Processes, file descriptors, signals, sockets, threads, synchronization |
+| **Systems & networking** | Processes, file descriptors, signals, sockets, threads, synchronization |
+| **Web** | React, TypeScript, Vite, Tailwind CSS; Node.js, Express, REST APIs, Socket.IO |
+| **Data & security** | PostgreSQL, Prisma, relational modeling, JWT, Argon2 |
+| **Tools & infrastructure** | Git, Docker, Docker Compose, Caddy, NGINX, Linux |
 
 ## 🎓 More from the 42 curriculum
 
