@@ -53,7 +53,15 @@ A C graphics project covering map parsing, wall rendering, textures, player move
 
 `C` · `MiniLibX` · `Raycasting` · `Linux`
 
-### 04 · [Inception](https://github.com/doooriian/Inception)
+### 04 · [CPP-Modules](https://github.com/doooriian/CPP-Modules)
+
+**C++98 curriculum · Ten modules**
+
+A structured collection of the 42 C++ exercises: object-oriented programming, memory management, inheritance, polymorphism, exceptions, templates, STL containers and algorithms.
+
+`C++98` · `OOP` · `Templates` · `STL` · `Algorithms`
+
+### 05 · [Inception](https://github.com/doooriian/Inception)
 
 **Containerized web infrastructure**
 
@@ -61,7 +69,7 @@ A Docker-based deployment with an NGINX HTTPS entry point, WordPress/PHP-FPM, Ma
 
 `Docker` · `Docker Compose` · `NGINX` · `MariaDB`
 
-### 05 · [ClassMaker](https://github.com/doooriian/classmaker)
+### 06 · [ClassMaker](https://github.com/doooriian/classmaker)
 
 **Personal developer tool · C++98**
 
